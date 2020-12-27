@@ -68,3 +68,20 @@ body {
     left: 30%;
     font-size: 20px;
 }
+
+.hours {
+    font-size: 15px;
+    padding: 1% 20%;
+    color: #20b2aa;
+}
+
+ul {
+    display: inline-flex;
+    justify-content: center;
+    list-style-type: none;
+}
+
+li {
+    padding-left: 10px;
+
+}
