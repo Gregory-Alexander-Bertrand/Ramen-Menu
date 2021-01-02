@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+body {
+    background-color: #d8bfd8;
+    font-family: Alegreya;
+    height: 100vh;
+    overflow-x: hidden;
+}
+
+section {
+     text-align: center;
+     font-size: 60px;
+     background-image: url(walnut-wood-table-top.jpg);
+}
+
+header {
+    color: #bc8f8f;
+}
+
+.miso-ramen {
+    text-align: center;
+    padding-top: 5%;
+}
+
+.picture {
+    height: 600px;
+    width: 600px;
+    border: 5px solid sienna;
+    opacity: 1;
+    cursor: pointer;
+}
+
+.picture:hover {
+    opacity: .5;
+}
+
+h1 {
+    font-size: 40px;
+    color: #008080;
+}
+
+p {
+    font-size: 50px;
+    color: #008080;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin-bottom: 300px;
+}
