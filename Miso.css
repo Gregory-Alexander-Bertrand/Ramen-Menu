@@ -52,3 +52,20 @@ p {
     right: 0;
     margin-bottom: 300px;
 }
+
+.customize {
+    width: 600px;
+    margin: 0 auto;
+    background-image: url(walnut-wood-table-top.jpg);
+}
+
+legend {
+    text-align: center;
+    font-size: 30px;
+    color: #000000;
+    font-weight: 1000;
+}
+
+.toppings {
+    text-align: center;
+}
